@@ -13,6 +13,11 @@
 
 > String replace transformer for Alle dependencies
 
+During a [alle-publish][], pass the dependency through `String#replace` for the
+given pattern-replace(s) opts.
+
+[alle-publish]: https://github.com/tlvince/alle-publish
+
 ## Installation
 
 ```shell
